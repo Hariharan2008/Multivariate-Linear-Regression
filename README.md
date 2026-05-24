@@ -43,9 +43,6 @@ print('Predicted CO2 for the corresponding weight and volume',predictedCO2)
 
 <img width="937" height="415" alt="Ex-10 AI" src="https://github.com/user-attachments/assets/b1beecc7-3b01-4a5c-8c0a-4db1fbdff7f3" />
 
-
-### Insert your output
-
 <br>
 
 ## Result
